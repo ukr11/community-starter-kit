@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
++ Changing Field1
 
 ## What it does
 
-FEATURES PLACEHOLDER
++ Changing Field2
 
 ## Getting started
 
